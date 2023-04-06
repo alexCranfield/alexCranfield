@@ -1,15 +1,16 @@
-- 👋 Hi, I’m @alexCranfield
+👋 Hi, I’m @alexCranfield
 
-- 👀 I’m interested in ...
-Machine Learning
-Anomaly Detection
-Automation
-Avionic Systems
+👀 I’m interested in ...
+- Machine Learning
+- Anomaly Detection
+- Automation
+- Avionic Systems
 
-- 🌱 I’m currently learning ...
-An MSc in Astronautics and Space Engineering! My thesis involves using autoencoders for anomaly detection of satellite imagery
+🌱 I’m currently learning ...
+- Autoencoder-based anomaly detection
+- Explainable ML
+- ML in weather
 
-- 💞️ I’m looking to collaborate on ...
-
-- 📫 How to reach me ...
-a.j.farr@cranfield.ac.uk
+📫 How to reach me ...
+- [e-mail](mailto:ajfarr96@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/alexjfarr/)
